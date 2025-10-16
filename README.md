@@ -1,5 +1,2 @@
 # 111
-
-<video controls>
-    <source src="https://github.com/duixcom/Duix-Mobile/releases/download/v2.0.1/demo.mp4" type="video/mp4">
-</video>
+<video src="movie.mp4.mp4" controls="controls" width="500" height="300"></video>
