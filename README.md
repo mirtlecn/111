@@ -1,2 +1,2 @@
-# 111
-<video src="https://github.com/duixcom/Duix-Mobile/releases/download/v2.0.1/demo.mp4" controls="controls" width="500" height="300"></video>
+
+https://github.com/user-attachments/assets/6cfb59fc-d4bb-4c9f-8a2b-54009ce594a1
